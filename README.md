@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thank you for visiting and have a nice day~ ✨
+Thank you for visiting! Have a nice day~ ✨
 
 <!--
 **plainheart/plainheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
